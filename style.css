@@ -1,0 +1,55 @@
+body {
+    font-size: 16px;
+    background-color: gray;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#header-nav {
+    background-color: rgb(241, 226, 226);
+    border-radius: 0;
+    border: 0;
+}
+.navbar-brand {
+    padding-top: 25px;
+    margin-top: 25px;
+}
+.navbar-brand h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(8, 6, 6);
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+}
+.navbar-brand a:link {
+    text-decoration: none;
+}
+#nav-list {
+    margin-top: 10px;
+}
+#nav-list a {
+    color: #7e263c;
+    text-align: center;
+}
+#nav-list a:hover {
+    background: #080707;
+}
+#nav-list a span {
+    font-size: 1.8em;
+}
+.navbar-header button.navbar-toggler, .navbar-header .navbar-toggler-icon {
+    border: 1px solid #1a0c11;
+}
+.menu-tile {
+    border: 2px solid black;
+    margin: 0 auto 15px;
+}
+#menu {
+    margin-bottom: 50px;
+    margin-top: 15px;
+}
+#top a:link {
+    text-decoration: none;
+}
